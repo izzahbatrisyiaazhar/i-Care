@@ -1,5 +1,5 @@
 # i-Care: A Web-Based Online Goods Donation Management System
-i-Care is a web-based donation management system that provides a structured platform for emergency relief assistance. The system has two types of users, donors and administrators. There are eight modules in the system that facilitate different functionalities for each user.
+i-Care is a web-based goods donation management system that provides a structured platform for emergency relief assistance. The system has two types of users, donors and administrators. There are eight modules in the system that facilitate different functionalities for each user.
 
 # Modules
 For donors:
